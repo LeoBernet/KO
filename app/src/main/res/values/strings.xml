@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="feedbacktype">Тип отзыва</string>
+    <string name="feedbacktype1">Отлично</string>
+    <string name="feedbacktype2">Хорошо</string>
+    <string name="feedbacktype3">Плохо</string>
+    <string name="feedbacktype4">Ужасно</string>
+</resources>

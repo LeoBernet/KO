@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "20183891487",
+    "firebase_url": "https://k-otzivi.firebaseio.com",
+    "project_id": "k-otzivi",
+    "storage_bucket": "k-otzivi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20183891487:android:ce07d671839043d9409f2a",
+        "android_client_info": {
+          "package_name": "com.example.ko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20183891487-vf2tvqmmdpcdp3lrbv7plb2l3bc3b7u5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ko",
+            "certificate_hash": "fd53c6e5bd70042942eb287b097623327b313fcd"
+          }
+        },
+        {
+          "client_id": "20183891487-k4t2p5ehdm7ij4qgnrsjjh0sj6a74gvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1b1FkH7L6JMnercsUGt2ONxx8ycHTakQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20183891487-k4t2p5ehdm7ij4qgnrsjjh0sj6a74gvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
